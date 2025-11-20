@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proye_Nano")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5884e0e4af77196eed31b706424467d86bf1f23f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feb157b14a0594ad59b256e3b31d70b79729e767")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proye_Nano")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proye_Nano")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
