@@ -53,6 +53,7 @@
             button_Inicio_Sesion.TabIndex = 2;
             button_Inicio_Sesion.Text = "Iniciar Sesion";
             button_Inicio_Sesion.UseVisualStyleBackColor = false;
+            button_Inicio_Sesion.Click += button_Inicio_Sesion_Click;
             // 
             // pictureBox1
             // 
@@ -123,11 +124,12 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 30F);
-            label2.Location = new Point(186, 147);
+            label2.Location = new Point(300, 153);
             label2.Name = "label2";
-            label2.Size = new Size(464, 54);
+            label2.Size = new Size(252, 54);
             label2.TabIndex = 11;
-            label2.Text = "Inicia Sesion o Registrate";
+            label2.Text = "Inicia Sesion ";
+            label2.Click += label2_Click;
             // 
             // Form1
             // 

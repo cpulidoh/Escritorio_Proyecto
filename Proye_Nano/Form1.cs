@@ -21,5 +21,17 @@ namespace Proye_Nano
         {
 
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button_Inicio_Sesion_Click(object sender, EventArgs e)
+        {
+            Servicios servicios = new Servicios();
+            servicios.ShowDialog();
+            this.Close();
+        }
     }
 }
